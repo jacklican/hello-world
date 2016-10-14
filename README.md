@@ -1,2 +1,3 @@
 # hello-world
-first lesson
+first lesson 
+this is first time to try
